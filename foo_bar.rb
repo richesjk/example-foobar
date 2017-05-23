@@ -1,8 +1,5 @@
 class FooBar
-  def run
-    puts "How many items do you want to see?"
-    items = gets.chomp.to_i
-
+  def run(items = gets.chomp.to_i)
     if items > 0
       list = []
       (1..items).each do |n|
