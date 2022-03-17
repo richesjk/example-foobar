@@ -4,6 +4,7 @@ Example files: https://gist.github.com/dblandin/589e70345774298e1622850349c31876
 
 ## Setup
 
+
 1. Install the Code Climate [browser extension](https://codeclimate.com/browser-extension)
 1. [Fork](https://github.com/codeclimate-demo/example-foobar#fork-destination-box) this project
 
