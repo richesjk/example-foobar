@@ -1,5 +1,5 @@
 class Example
-  def answer
+  def answer 
     42
   end
 end
